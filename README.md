@@ -9,6 +9,11 @@ Clone the latest version of this repository with the following command:
 ```bash
 git clone --depth=1 https://github.com/edwinaquino/basic-react-form-hooks.git
 ```
+Now that the app has been cloned, you can cd into the newly created directory.
+
+```bash
+cd basic-react-form-hooks
+```
 
 ## Installation
 
