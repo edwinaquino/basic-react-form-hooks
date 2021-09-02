@@ -2,6 +2,10 @@
 
 This is a very simple app to demonstrate how to use React Hooks for your forms to obtain data from your users.
 
+## Requirements
+[react-hooks-form](https://www.npmjs.com/package/react-hook-form)  
+[react-scripts](https://www.npmjs.com/package/react-scripts)  
+
 ## Clone Repository
 
 Clone the latest version of this repository with the following command:
